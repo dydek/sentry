@@ -54,7 +54,7 @@ install_requires = [
     'celery>=2.5.3',
     'django-compressor>=1.2,<1.3',
     'django-crispy-forms>=1.1.4',
-    'Django>=1.4.2,<=1.5',
+    'Django>=1.4.2',
     'django-indexer>=0.3.0',
     'django-paging>=0.2.4',
     'django-picklefield>=0.2.0',
